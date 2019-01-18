@@ -9,3 +9,8 @@
 ## union-find
 * Union-Find
 * Table探索実装
+
+## prime-number
+* 素数判定アルゴリズム
+* Eratosthenesの篩
+* Atkinの篩とか、ミラーラビンとか気になってる
