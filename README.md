@@ -4,7 +4,7 @@
 ## binary-tree
 * 二分木探索
 * DFS(preorder, inorder, postorder, 再帰あり/なし)
-* BFS実装予定
+* DFS(preorder)とBFSをC++で実装済(bintree.cpp)
 
 ## union-find
 * Union-Find
